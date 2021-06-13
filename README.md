@@ -128,3 +128,9 @@ Still not working? Browse the [FAQ topics](https://docs.qmk.fm/#/faq_general) fo
 - [QMK CLI Overview](https://docs.qmk.fm/#/cli)
 - [QMK Use Guides](https://docs.qmk.fm/#/custom_quantum_functions)
 - [QMK Development](https://docs.qmk.fm/#/pr_checklist)
+
+# big thanks to the amazing people over at QMK, i love you all!!! all credit goes to them
+
+#### questions? dm me on discord DNWMN#8684
+
+![catkiss](https://tenor.com/view/cat-cute-kisses-kitty-kiss-heart-gif-16375047)
