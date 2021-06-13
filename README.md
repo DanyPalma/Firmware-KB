@@ -4,8 +4,57 @@
  - uses the QMK framework to operate on ATmega32U4 microcontrollers and more 
 
 ### if board is in here, ive owned, built or borrowed it at some point or another 
-# current collection of dany's firmwares (that i use or have written) 
+# current collection of dany's firmwares (that i use or have written)
+ - bakaneko60
+ - barleycorn
+ - cassette42
+ - choc_taro
+ - daisy
+ - dz60
+ - exent
+ - fallacy
+ - fc660c
+ - fm2u
+ - h10
+ - h60
+ - h75_singa
+ - h87a
+ - h88
+ - h660s
+ - hbcp
+ - hineyg80
+ - iron165
+ - iron180
+ - kbd6x
+ - kbd8x_mk2
+ - key65
+ - latinpad
+ - launch_pad
+ - lck75
+ - leaf60
+ - lily58
+ - mega
+ - mysterium
+ - nano_slider
+ - nines
+ - physix
+ - romac_plus
+ - romeo
+ - ropro
+ - saka68
+ - sm68
+ - smd_milk
+ - soap
  - sofle
+ - space65
+ - spin
+ - think65
+ - tsukuyomi
+ - unikorn
+ - vulcan
+ - whale
+ - wilba_tech (anything inside of this folder i have used)
+ - x268
 
 ### Requirements
  - [QMK MSYS](https://msys.qmk.fm/)
