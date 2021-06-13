@@ -3,7 +3,7 @@
 # Small Compilation of Firmware written for my keyboards
  - uses the QMK framework to operate on ATmega32U4 microcontrollers and more 
 
-# current collection of dany's firmwares
+# current collection of dany's firmwares (that i use or have written) 
  - sofle
 
 ### Requirements
