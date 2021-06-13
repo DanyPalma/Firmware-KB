@@ -133,4 +133,4 @@ Still not working? Browse the [FAQ topics](https://docs.qmk.fm/#/faq_general) fo
 
 #### questions? dm me on discord DNWMN#8684
 
-![catkiss](https://tenor.com/view/cat-cute-kisses-kitty-kiss-heart-gif-16375047)
+![catkiss](https://media1.tenor.com/images/7ba998f61e44b409af34f0496ec49a41/tenor.gif?itemid=16375047)
