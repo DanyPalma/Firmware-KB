@@ -78,4 +78,3 @@ Still not working? Browse the [FAQ topics](https://docs.qmk.fm/#/faq_general) fo
 - [QMK CLI Overview](https://docs.qmk.fm/#/cli)
 - [QMK Use Guides](https://docs.qmk.fm/#/custom_quantum_functions)
 - [QMK Development](https://docs.qmk.fm/#/pr_checklist)
-- 
