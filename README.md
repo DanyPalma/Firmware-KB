@@ -131,6 +131,6 @@ Still not working? Browse the [FAQ topics](https://docs.qmk.fm/#/faq_general) fo
 
 # big thanks to the amazing people over at QMK, i love you all!!! all credit goes to them
 
-#### questions? dm me on discord DNWMN#8684
+## Questions? DM me on discord @DNWMN#8684
 
 ![catkiss](https://media1.tenor.com/images/7ba998f61e44b409af34f0496ec49a41/tenor.gif?itemid=16375047)
