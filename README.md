@@ -130,6 +130,7 @@ Still not working? Browse the [FAQ topics](https://docs.qmk.fm/#/faq_general) fo
 - [QMK Development](https://docs.qmk.fm/#/pr_checklist)
 
 # big thanks to the amazing people over at QMK, i love you all!!! all credit goes to them
+ - i think that if it wasnt for them i wouldnt have been able to efficiently program and organize all of these firmware files for all ofmy keyboards. they are aboslute lifesavers <3 
 
 ## Questions? DM me on discord @DNWMN#8684
 
